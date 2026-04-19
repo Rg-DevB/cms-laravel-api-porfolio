@@ -1,3 +1,6 @@
 [submodule "backend_api"]
 	path = backend_api
 	url = https://github.com/Rg-DevB/CMS-Portfolio-Backend-API-Admin-Dashboard.git
+[submodule "frontend_api"]
+	url = https://github.com/Rg-DevB/Portfolio-NextJS-TailwindCSS.git
+	path = frontend_api
